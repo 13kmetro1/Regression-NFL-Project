@@ -5,8 +5,9 @@ Spyder Editor
 This is a temporary script file.
 """
 import pandas
-team = "Green Bay Packers"
-opp = ""
+team1 = "Arizona Cardinals"
+team2 = 'Philadelphia Eagles'
+opp = "Philadelphia Eagles"
 switcher = {
      'Buffalo Bills' : 'bills.csv',
      'Miami Dolphins' : 'miami.csv',
@@ -42,11 +43,16 @@ switcher = {
      'San Francisco 49ers' : '49ers.csv' }
 
 from sklearn import linear_model
-df = pandas.read_csv("~/Desktop/Schedules/"+switcher[team])
+df = pandas.read_csv("/Users/kevinmetro/Regression-NFL-Project/Regression NFL Project/Schedules/"+switcher[team1])
 x = df[['TotYd','1stD','oppd']]
 y = df[['Tm']]
+df1 = pandas.read_csv("/Users/kevinmetro/Regression-NFL-Project/Regression NFL Project/Schedules/"+switcher[team2])
+x1 = df1[['TotYd','1stD','oppd']]
+y1 = df1[['Tm']]
 regr = linear_model.LinearRegression()
 regr.fit(x,y)
-predict = regr.predict([[397,22,29]])
+predict = regr.predict([[(5063/13),(320/13),29]])
 print(predict)
-    
+regr.fit(x1,y1)
+predict = regr.predict([[(4239/13),(270/13),17]])
+print(predict)   
