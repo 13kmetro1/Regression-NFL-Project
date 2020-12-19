@@ -1,18 +1,14 @@
-Week,Day,Date,,,,OT,Rec,,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms
-1,Mon,September 14,10:10PM ET,boxscore,W,,1-0,@,Denver Broncos,16,14,26,377,247,130,,19,323,216,107,1,12.30,-3.03,-11.90
-2,Sun,September 20,1:00PM ET,boxscore,W,,2-0,,Jacksonville Jaguars,33,30,23,354,231,123,,30,480,315,165,2,21.12,-18.68,3.05
-3,Sun,September 27,1:00PM ET,boxscore,W,,3-0,@,Minnesota Vikings,31,30,23,444,310,134,1,22,464,238,226,3,3.79,-10.21,7.95
-4,,,,,,,,,Bye Week,,,,,,,,,,,,,,,
-5,Tue,October 13,7:00PM ET,boxscore,W,,4-0,,Buffalo Bills,42,16,25,334,195,139,,23,370,275,95,3,24.29,-1.55,0.82
-6,Sun,October 18,1:00PM ET,boxscore,W,OT,5-0,,Houston Texans,42,36,31,607,344,263,2,25,412,320,92,,33.45,-22.14,-5.31
-7,Sun,October 25,1:00PM ET,boxscore,L,,5-1,,Pittsburgh Steelers,24,27,15,292,210,82,,23,362,268,94,3,6.99,-6.70,-3.88
-8,Sun,November 1,1:00PM ET,boxscore,L,,5-2,@,Cincinnati Bengals,20,31,27,441,223,218,1,27,367,249,118,,19.91,-23.57,-5.56
-9,Sun,November 8,1:00PM ET,boxscore,W,,6-2,,Chicago Bears,24,17,11,228,136,92,,22,375,319,56,2,-3.34,12.79,-1.50
-10,Thu,November 12,8:20PM ET,boxscore,L,,6-3,,Indianapolis Colts,17,34,25,294,137,157,,26,430,297,133,,9.37,-17.58,-6.81
-11,Sun,November 22,1:00PM ET,boxscore,W,OT,7-3,@,Baltimore Ravens,30,24,26,423,250,173,1,21,306,177,129,1,13.91,-7.48,0.86
-12,Sun,November 29,1:00PM ET,boxscore,W,,8-3,@,Indianapolis Colts,45,26,28,449,220,229,,27,336,280,56,1,23.98,-6.68,6.58
-13,Sun,December 6,1:00PM ET,boxscore,L,,8-4,,Cleveland Browns,35,41,25,431,369,62,3,26,458,340,118,1,9.59,-16.85,-1.78
-14,Sun,December 13,1:00PM ET,boxscore,W,,9-4,@,Jacksonville Jaguars,31,10,25,454,205,249,1,20,354,263,91,1,16.06,3.00,-0.34
-15,Sun,December 20,1:00PM ET,preview,,,,,Detroit Lions,,,,,,,,,,,,,,,
-16,Sun,December 27,8:20PM ET,preview,,,,@,Green Bay Packers,,,,,,,,,,,,,,,
-17,Sun,January 3,1:00PM ET,preview,,,,@,Houston Texans,,,,,,,,,,,,,,,
+Week,Day,Date,,,,OT,Rec,,Opp,Tm,Opp,1stD,TotYd,PassY,RushY,TO,1stD,TotYd,PassY,RushY,TO,Offense,Defense,Sp. Tms,oppd
+1,Mon,September 14,10:10PM ET,boxscore,W,,1-0,@,Denver Broncos,16,14,26,377,247,130,,19,323,216,107,1,12.30,-3.03,-11.90,23
+2,Sun,September 20,1:00PM ET,boxscore,W,,2-0,,Jacksonville Jaguars,33,30,23,354,231,123,,30,480,315,165,2,21.12,-18.68,3.05,27
+3,Sun,September 27,1:00PM ET,boxscore,W,,3-0,@,Minnesota Vikings,31,30,23,444,310,134,1,22,464,238,226,3,3.79,-10.21,7.95,24
+5,Tue,October 13,7:00PM ET,boxscore,W,,4-0,,Buffalo Bills,42,16,25,334,195,139,,23,370,275,95,3,24.29,-1.55,0.82,15
+6,Sun,October 18,1:00PM ET,boxscore,W,OT,5-0,,Houston Texans,42,36,31,607,344,263,2,25,412,320,92,,33.45,-22.14,-5.31,25
+7,Sun,October 25,1:00PM ET,boxscore,L,,5-1,,Pittsburgh Steelers,24,27,15,292,210,82,,23,362,268,94,3,6.99,-6.70,-3.88,1
+8,Sun,November 1,1:00PM ET,boxscore,L,,5-2,@,Cincinnati Bengals,20,31,27,441,223,218,1,27,367,249,118,,19.91,-23.57,-5.56,22
+9,Sun,November 8,1:00PM ET,boxscore,W,,6-2,,Chicago Bears,24,17,11,228,136,92,,22,375,319,56,2,-3.34,12.79,-1.50,9
+10,Thu,November 12,8:20PM ET,boxscore,L,,6-3,,Indianapolis Colts,17,34,25,294,137,157,,26,430,297,133,,9.37,-17.58,-6.81,12
+11,Sun,November 22,1:00PM ET,boxscore,W,OT,7-3,@,Baltimore Ravens,30,24,26,423,250,173,1,21,306,177,129,1,13.91,-7.48,0.86,5
+12,Sun,November 29,1:00PM ET,boxscore,W,,8-3,@,Indianapolis Colts,45,26,28,449,220,229,,27,336,280,56,1,23.98,-6.68,6.58,12
+13,Sun,December 6,1:00PM ET,boxscore,L,,8-4,,Cleveland Browns,35,41,25,431,369,62,3,26,458,340,118,1,9.59,-16.85,-1.78,26
+14,Sun,December 13,1:00PM ET,boxscore,W,,9-4,@,Jacksonville Jaguars,31,10,25,454,205,249,1,20,354,263,91,1,16.06,3.00,-0.34,27
